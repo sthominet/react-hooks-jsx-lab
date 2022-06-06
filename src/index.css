@@ -9,7 +9,11 @@ body {
   font-size: 16px;
 }
 
-h1,
+h1 {
+  font-family: "Playfair Display", serif;
+  color: firebrick;
+}
+
 h2,
 h3,
 h4,
